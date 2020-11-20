@@ -1,4 +1,4 @@
-const facilities = [
+const venues = [
  {
    id: 1001,
    name: 'Soccerdome Wien 10',
